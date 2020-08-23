@@ -1,2 +1,2 @@
 # salemana
-Sales Manager
+A simple Sales Manager aplication for learning purposes
